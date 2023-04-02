@@ -1,5 +1,6 @@
 _______________________________#Tugas Kelompok_____________________________
 # Kelompok 6
+# Teknik Simulasi
 # Amalia JIhan Syafiqoh B2A020078
 # Anita Silvia Fatmawati B2A20083
 # Septiana Putri Milasari B2A020058
